@@ -13,6 +13,8 @@ Développeur full stack passionné par la création d'applications web modernes 
     <img width="50" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/>
     <img width="50" src="https://skillicons.dev/icons?i=next" alt="Next.js" title="Next.js"/>
     <img width="50" src="https://skillicons.dev/icons?i=express" alt="Express" title="Express"/>
+    <img width="50" src="https://skillicons.dev/icons?i=go" alt="Golang" title="Golang"/>
+    <img width="50" src="https://skillicons.dev/icons?i=rust" alt="Rust" title="Rust"/>
     <img width="50" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/>
     <img width="50" src="https://skillicons.dev/icons?i=sqlite" alt="SqLite" title="SqLite"/>
     <img width="50" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>
