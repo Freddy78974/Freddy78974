@@ -10,13 +10,15 @@ Développeur full stack passionné par la création d'applications web modernes 
 <div align="center">
     <img width="50" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>
     <img width="50" src="https://skillicons.dev/icons?i=react" alt="React" title="React"/>
-    <img width="50" src="https://skillicons.dev/icons?i=node" alt="Node.js" title="Node.js"/>
+    <img width="50" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/>
     <img width="50" src="https://skillicons.dev/icons?i=next" alt="Next.js" title="Next.js"/>
     <img width="50" src="https://skillicons.dev/icons?i=express" alt="Express" title="Express"/>
     <img width="50" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/>
+    <img width="50" src="https://skillicons.dev/icons?i=sqlite" alt="SqLite" title="SqLite"/>
     <img width="50" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>
     <img width="50" src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker"/>
     <img width="50" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/>
+    <img width="50" src="https://skillicons.dev/icons?i=vscode" alt="VScode" title="VScode"/>
 </div>
 
 ---
@@ -31,6 +33,6 @@ Développeur full stack passionné par la création d'applications web modernes 
 ## 📫 Contact :
 <div align="center">
     <a href="mailto:nangy.pro@gmail.com">
-        <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
     </a>
 </div>
