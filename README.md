@@ -23,10 +23,11 @@ Développeur full stack passionné par la création d'applications web modernes 
 
 ---
 
-## 📈 Statistiques GitHub :
+## 📈 Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Freddy78974&show_icons=true&theme=neon&rank_icon=github)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Freddy78974&layout=compact&theme=neon) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Freddy78974&theme=neon)](https://github-readme-streak-stats.herokuapp.com/?user=Freddy78974)
+[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Freddy78974&show_icons=true&theme=neon&rank_icon=github)](https://github-readme-stats.vercel.app/api?username=Freddy78974&show_icons=true&theme=neon)
+[![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Freddy78974&layout=compact&theme=neon)](https://github-readme-stats.vercel.app/api/top-langs/?username=Freddy78974&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Freddy78974&theme=neon)](https://github-readme-streak-stats.herokuapp.com/?user=Freddy78974)
 
 ---
 
