@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1A,100:FF6A2B&height=160&section=header&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1A,100:FF6A2B&height=220&section=header&text=Jean-Fr%C3%A9d%C3%A9ric%20Nangy&fontSize=46&fontColor=E6EAF3&fontAlignY=38&desc=Software%20%26%20AI%20Solution%20Designer&descAlignY=58&descSize=18&descColor=FF6A2B&animation=fadeIn" width="100%" alt="Jean-Frédéric Nangy — Software & AI Solution Designer" />
 
-# 👋 Jean-Frédéric Nangy
+<sub>Concepteur Développeur d'Applications — RNCP Niveau 6</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=FF6A2B&center=true&vCenter=true&width=650&height=45&lines=Software+%26+AI+Solution+Designer;Software+Architecture+%26+System+Design;AI-Assisted+Software+Engineering;Modular%2C+Product-Oriented+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=FF6A2B&center=true&vCenter=true&width=650&height=40&lines=Software+Architecture+%26+System+Design;AI-Assisted+Software+Engineering;Modular%2C+Product-Oriented+Development;AI+%26+Automation" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-freddy78974.github.io-0A0F1A?style=for-the-badge&logo=googlechrome&logoColor=FF6A2B)](https://freddy78974.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-nangy.pro%40gmail.com-FF6A2B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nangy.pro@gmail.com)
@@ -109,8 +109,8 @@ Bases en réseaux et cybersécurité (Linux, environnement Kali Linux, notions d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Freddy78974&show_icons=true&count_private=true&bg_color=0A0F1A&title_color=FF6A2B&text_color=E6EAF3&icon_color=FF6A2B&border_color=1B2333&hide_border=false" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freddy78974&layout=compact&bg_color=0A0F1A&title_color=FF6A2B&text_color=E6EAF3&border_color=1B2333&hide_border=false" alt="Top languages" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Freddy78974&show_icons=true&count_private=true&bg_color=0A0F1A&title_color=FF6A2B&text_color=E6EAF3&icon_color=FF6A2B&border_color=1B2333&hide_border=false" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Freddy78974&layout=compact&bg_color=0A0F1A&title_color=FF6A2B&text_color=E6EAF3&border_color=1B2333&hide_border=false" alt="Top languages" height="165" />
 
 <img src="https://streak-stats.demolab.com/?user=Freddy78974&background=0A0F1A&ring=FF6A2B&fire=FF6A2B&currStreakLabel=FF6A2B&sideLabels=E6EAF3&currStreakNum=E6EAF3&sideNums=E6EAF3&dates=7C8AA8&border=1B2333" alt="GitHub streak" />
 
