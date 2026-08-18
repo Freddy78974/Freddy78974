@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1A,100:FF6A2B&height=220&section=header&text=Jean-Fr%C3%A9d%C3%A9ric%20Nangy&fontSize=46&fontColor=E6EAF3&fontAlignY=38&desc=Software%20%26%20AI%20Solution%20Designer&descAlignY=58&descSize=18&descColor=FF6A2B&animation=fadeIn" width="100%" alt="Jean-Frédéric Nangy — Software & AI Solution Designer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1A,100:FF6A2B&height=220&section=header&text=Jean-Fr%C3%A9d%C3%A9ric%20Nangy&fontSize=46&fontColor=E6EAF3&fontAlignY=38&desc=Software%20and%20AI%20Solution%20Designer&descAlignY=58&descSize=18&descColor=FF6A2B&animation=fadeIn" width="100%" alt="Jean-Frédéric Nangy — Software &amp; AI Solution Designer" />
 
 <sub>Concepteur Développeur d'Applications — RNCP Niveau 6</sub>
 
