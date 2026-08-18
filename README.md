@@ -114,12 +114,6 @@ Bases en réseaux et cybersécurité (Linux, environnement Kali Linux, notions d
 
 <img src="https://streak-stats.demolab.com/?user=Freddy78974&background=0A0F1A&ring=FF6A2B&fire=FF6A2B&currStreakLabel=FF6A2B&sideLabels=E6EAF3&currStreakNum=E6EAF3&sideNums=E6EAF3&dates=7C8AA8&border=1B2333" alt="GitHub streak" />
 
-</div>
-
-> ℹ️ Pour que les statistiques reflètent aussi l'activité sur mes dépôts privés (GestFinFam, SynapNCore, EditLetter...), activer **"Include private contributions on my profile"** dans *Settings → Profile* sur GitHub.
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1A,100:FF6A2B&height=100&section=footer" width="100%" />
 
 **[nangy.pro@gmail.com](mailto:nangy.pro@gmail.com)** · **[Portfolio](https://freddy78974.github.io/portfolio/)**
